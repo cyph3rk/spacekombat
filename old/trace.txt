@@ -1,0 +1,4 @@
+Inicio trace
+
+Fim trace
+

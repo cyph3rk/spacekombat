@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1211162397 source:c:\documents and settings\preferencial\desktop\games\spacekombat\principal.cpp
+	"globais.h"
+
+1209278383 source:c:\documents and settings\preferencial\desktop\games\spacekombat\inicializa.cpp
+	"globais.h"
+
+1211162907 c:\documents and settings\preferencial\desktop\games\spacekombat\globais.h
+	<allegro.h>
+	<iostream.h>
+
+1209349434 source:c:\documents and settings\preferencial\desktop\games\spacekombat\globais.cpp
+
+1209518963 source:c:\documents and settings\preferencial\desktop\games\spacekombat\trace.cpp
+	"trace.h"
+
+1209518879 c:\documents and settings\preferencial\desktop\games\spacekombat\trace.h
+	<stdio.h>
+	<time.h>
+
+1211848469 source:c:\documents and settings\cyph3rk\meus documentos\dobermann\programacao\data3d\spacekombat\principal.cpp
+	"globais.h"
+
+1211848067 c:\documents and settings\cyph3rk\meus documentos\dobermann\programacao\data3d\spacekombat\globais.h
+	<allegro.h>
+	<iostream.h>
+
+1209518963 source:c:\documents and settings\cyph3rk\meus documentos\dobermann\programacao\data3d\spacekombat\trace.cpp
+	"trace.h"
+
+1209518879 c:\documents and settings\cyph3rk\meus documentos\dobermann\programacao\data3d\spacekombat\trace.h
+	<stdio.h>
+	<time.h>
+
+1209349434 source:c:\documents and settings\cyph3rk\meus documentos\dobermann\programacao\data3d\spacekombat\globais.cpp
+
